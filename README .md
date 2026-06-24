@@ -10,6 +10,8 @@ This project analyzes how Bitcoin market sentiment (Fear/Greed Index) relates to
 | Dataset | Rows | Description |
 
 | `fear_greed_index.csv` | 2,644 | Daily Bitcoin Fear/Greed classifications (2018–2025) |
+
+
 | `historical_data.csv` | 211,224 | Hyperliquid trade records across 32 accounts & 246 coins (May 2023 – May 2025) |
 
 
